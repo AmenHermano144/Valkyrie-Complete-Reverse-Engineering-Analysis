@@ -5,7 +5,7 @@
 > **Type:** Windows Kernel-Mode Driver (`.sys`)
 > **Single Export:** `DriverEntry` @ `0x140C3C000`
 > **Analysis Date:** 2026-04-14
-> **Tool:** IDA Pro 9 + IDADE MCP Bridge
+> **Tool:** IDA Pro 9 
 
 ---
 
