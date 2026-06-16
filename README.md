@@ -1,4 +1,4 @@
-# Ricochet Anti-Cheat (Valkyrie) — Complete Reverse Engineering Analysis
+# ------- Anti-Cheat (Valkyrie) — Complete Reverse Engineering Analysis
 
 > **Project Name:** Valkyrie
 > **Kernel Driver:** Randgrid.sys (Norse valkyrie — PDB: `Randgrid.pdb`)
